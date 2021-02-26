@@ -1,0 +1,22 @@
+This runs on Python 3 and above.
+This runs on Ubuntu 16.04
+
+
+In this file there are 3 main functions
+
+
+intra_server- In the intra_server we use multiprocessing values as flags to decide what data we need to send to the other servers.
+
+intra_client-In the intra_client server we recieve values from other servers and decode them to perform the required operation.
+
+server_program-In the server_program we interact with clients to process requests.
+
+
+
+
+
+
+
+
+
+
